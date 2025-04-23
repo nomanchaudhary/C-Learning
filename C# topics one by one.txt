@@ -1,0 +1,8 @@
+Datatypes
+console input
+console output
+constants
+string parsing
+type conversion
+String Methods
+
