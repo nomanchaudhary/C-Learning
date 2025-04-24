@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Learning\\C# Learning.csproj": {}
+    "d:\\C# Learning\\C# Learning.csproj": {}
   },
   "projects": {
-    "D:\\C# Learning\\C# Learning.csproj": {
+    "d:\\C# Learning\\C# Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Learning\\C# Learning.csproj",
+        "projectUniqueName": "d:\\C# Learning\\C# Learning.csproj",
         "projectName": "C# Learning",
-        "projectPath": "D:\\C# Learning\\C# Learning.csproj",
+        "projectPath": "d:\\C# Learning\\C# Learning.csproj",
         "packagesPath": "C:\\Users\\Muhammad Noman\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Learning\\obj\\",
+        "outputPath": "d:\\C# Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammad Noman\\AppData\\Roaming\\NuGet\\NuGet.Config"

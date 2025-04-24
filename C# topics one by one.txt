@@ -5,4 +5,9 @@ constants
 string parsing
 type conversion
 String Methods
+String Formatting
+String Interpolation
+StringBuilders
+Arithmetic operators
+Logical Operators
 
