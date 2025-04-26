@@ -10,4 +10,12 @@ String Interpolation
 StringBuilders
 Arithmetic operators
 Logical Operators
+Math.clamp()
+If else
+Object Type
+Foreach loop
+Arrays
+Objects
+The Var keyword
+
 
