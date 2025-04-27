@@ -17,5 +17,12 @@ Foreach loop
 Arrays
 Objects
 The Var keyword
-
+Methods and Parameters
+Multidimensional arrays
+Return Values
+ref keyword
+in keyword
+out keyword
+Classes
+Getters and setters
 
