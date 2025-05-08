@@ -25,4 +25,13 @@ in keyword
 out keyword
 Classes
 Getters and setters
+constructors
+lambda expressions
+Abstract Classes and methods
+static Classes and methods
+Construvtors Overloading
+Try catch Finally
+Async Await
+
+
 
