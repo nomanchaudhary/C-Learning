@@ -26,12 +26,17 @@ out keyword
 Classes
 Getters and setters
 constructors
-lambda expressions
-Abstract Classes and methods
 static Classes and methods
-Construvtors Overloading
+Constructors Overloading
 Try catch Finally
 Async Await
-
-
+constructors
+access modifiers
+encapsulation
+Inheritance
+Polymorphism (Method overloading & Method overriding)
+Abstract Classes and methods
+Interfaces
+lambda expressions
+enums
 
